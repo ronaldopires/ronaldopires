@@ -2,6 +2,10 @@
 
 >I´m Front End Web Developer.
 
+## My Resume
+
+
+
 ## Portfolio
 <b>**My portfolio** contains some projects that I started to develop to gain experience in front-end web development</b>
 ### Access my [portfolio!](https://devronaldo.com.br/)
@@ -26,7 +30,7 @@
  <sub><b>Ronaldo Carvalho</b></sub></a> <a href="https://devronaldo.com.br" title="Ronaldo Carvalho">🚀</a>
 
 
-Feito com ❤️ por Ronaldo Carvalho 👋🏽 Entre em contato!
+Made with ❤️ by Ronaldo Carvalho 👋🏽 Contact me!
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511955544918) 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ronaldo.carvalho@hotmail.com)](mailto:ronaldo.carvalho@hotmail.com) 
