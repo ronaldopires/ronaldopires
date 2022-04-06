@@ -8,7 +8,7 @@
 
 ## 🚀 My Skills
 
-[(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+[](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-carvalho2019/)](https://www.linkedin.com/in/ronaldo-carvalho2019/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ronaldopires/)](https://github.com/ronaldopires/)
 
