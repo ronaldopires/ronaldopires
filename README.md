@@ -2,18 +2,20 @@
 
 >I´m Front End Web Developer.
 
+---
 ## My Resume
 <p>I'm a beginner in the art of web development and I'm loving every day I learn something new, so I decided to make this page to show a little of my experience already acquired.
 
 I have a degree in Computer Science and am currently working as an IT support analyst. My goal is to be a full stack web developer using HTML5, CSS3, JavaScript and PHP with MySQL for the backend.</p>
 
-
+---
 ##  Portfolio
 <b>**My portfolio** contains some projects that I started to develop to gain experience in front-end web development</b>
 ### Access my [portfolio!](https://devronaldo.com.br/)
 
+---
 ## 🚀 My Skills
-
+---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,8 +24,8 @@ I have a degree in Computer Science and am currently working as an IT support an
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ronaldopires/)](https://github.com/ronaldopires/)
 
-
-## 🌎 Contact
+---
+## 🌎 My social networks
 ---
 
 <a href="https://github.com/ronaldopires">
