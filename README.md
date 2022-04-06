@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi my name is Ronaldo Carvalho 👋🖥🤓
 
-### Autor
+>I´m Front End Web Developer.
+
+## Portfolio
+<b>**My portfolio** contains some projects that I started to develop to gain experience in front-end web development</b>
+### Access my [portfolio!](https://devronaldo.com.br/)
+
+## 🚀 My Skills
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
+
+## Autor
 ---
 
 <a href="https://github.com/ronaldopires">
