@@ -3,13 +3,11 @@
 >I´m Front End Web Developer.
 
 ---
-## My Resume
-<p>I'm a beginner in the art of web development and I'm loving every day I learn something new, so I decided to make this page to show a little of my experience already acquired.
-
-I have a degree in Computer Science and am currently working as an IT support analyst. My goal is to be a full stack web developer using HTML5, CSS3, JavaScript and PHP with MySQL for the backend.</p>
+## 📄 My Resume
+<p>I have a degree in <b>Computer Science</b> and am currently working as an IT support analyst. My goal is to be a full stack web developer using HTML5, CSS3, JavaScript and PHP with MySQL for the backend.</p>
 
 ---
-##  Portfolio
+## ⭐ Portfolio
 <b>**My portfolio** contains some projects that I started to develop to gain experience in front-end web development</b>
 ### Access my [portfolio!](https://devronaldo.com.br/)
 
