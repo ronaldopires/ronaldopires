@@ -22,6 +22,13 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ronaldopires/)](https://github.com/ronaldopires/)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronaldopires&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronaldopires&repo=convoychat" />
+</a>
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
