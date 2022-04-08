@@ -23,8 +23,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ronaldopires/)](https://github.com/ronaldopires/)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical)](https://github.com/ronaldopires/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldopires&layout=compact&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
+<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldopires&layout=compact&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
+</p>
 ---
 ## 🌎 My social networks
 ---
