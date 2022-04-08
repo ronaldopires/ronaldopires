@@ -24,7 +24,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldopires&layout=compact&theme=radical)](https://github.com/ronaldopires/github-readme-stats)
 ---
 ## 🌎 My social networks
