@@ -27,6 +27,11 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=gotham)](https://github.com/ronaldopires/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldopires&layout=compact&theme=gotham)](https://github.com/ronaldopires/github-readme-stats)
 </div>
+<div align="center">
+  <a href="https://github.com/ronaldopires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldopires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldopires&layout=compact&langs_count=7&theme=radical"/>
+</div>
 ---
 ## 🌎 My social networks
 ---
