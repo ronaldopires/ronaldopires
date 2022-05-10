@@ -1,4 +1,4 @@
-## Hi my name is Ronaldo Carvalho 👋🖥🤓
+## Hi, my name is Ronaldo Carvalho 👋🖥🤓
 
 >I´m Front End Web Developer.
 
@@ -9,7 +9,7 @@
 ---
 ## ⭐ Portfolio
 <b>**My portfolio** contains some projects that I started to develop to gain experience in front-end web development</b>
-### Access my [portfolio!](https://devronaldo.com.br/)
+### Access my [website!](https://devronaldo.com.br/)
 
 ---
 ## 🚀 My Skills
