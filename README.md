@@ -47,7 +47,6 @@ Made with ❤️ by Ronaldo Carvalho 👋🏽 Contact me!
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511955544918) 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ronaldo.carvalho@hotmail.com)](mailto:ronaldo.carvalho@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-carvalho2019/)](https://www.linkedin.com/in/ronaldo-carvalho2019/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ronaldopires/)](https://github.com/ronaldopires/)
 
 <!--
 **ronaldopires/ronaldopires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
